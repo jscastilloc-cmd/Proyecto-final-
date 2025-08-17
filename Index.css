@@ -1,0 +1,26 @@
+my-app/
+  src/
+    components/
+      Navbar.jsx
+      PlantCard.jsx
+      CartItem.jsx
+    pages/
+      Home.jsx
+      ProductList.jsx
+      Cart.jsx
+    App.jsx
+    index.js
+    data.js
+
+    body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+}
+
+nav {
+  background-color: #d4f1c5;
+  padding: 10px;
+}
+
